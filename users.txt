@@ -1,0 +1,32 @@
+login:sergius
+pass:qwerty123
+secret:kuku
+===
+login:vasya
+pass:1234
+secret:tryam
+===
+login:sergius324
+pass:234
+secret:супер секрет
+===
+login:dfasdf
+pass:123
+secret:123
+===
+login:login
+pass:123
+secret:secret
+===
+login:serавыgius
+pass:123
+secret:супер мега секрет
+===
+login:&lt;--
+pass:123
+secret:123123132
+===
+login:&lt;!--
+pass:234
+secret:123312123123
+===
